@@ -15,7 +15,7 @@ jQuery(function($) { $('ul.gallery').galleria(); });
 </script>
 </head>
 
-<title>simpleGallery by Bryant Smith</title>
+<title>The Madison Gallery | By Carlo Moscatiello</title>
 </head>
 
 <body>
@@ -30,10 +30,10 @@ jQuery(function($) { $('ul.gallery').galleria(); });
 			
             
         <ul class="gallery"> 
-			<li><img src="./images/1.jpg" title="Dad and Carlo Collage" alt="1"></li> 
-            <li><img src="./images/2.jpg" title="Pizza Night at Foothill" alt="2"></li> 
-            <li><img src="./images/3.jpg" title="Guess Who's Back" alt="3"></li> 
-            <li><img src="./images/4.jpg" title="Fathers Day at Shabu Shabu" alt="4"></li> 
+			<li><img src="./images/1.jpg" title="Joey and Carlo" alt="1"></li> 
+            <li><img src="./images/2.jpg" title="The Moscatiello Family" alt="2"></li> 
+            <li><img src="./images/3.jpg" title="Me and Grandpa Playing Bocci" alt="3"></li> 
+            <li><img src="./images/4.jpg" title="Me and Uncle Joey" alt="4"></li> 
 		</ul>
             
             
